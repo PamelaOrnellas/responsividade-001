@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+div {
+    background-color: #ff000022;
+    width: 200px;
+    height: 50px ;
+    margin: 10px;
+
+    /*Aplicar margin no top, right, bottom, left */
+    /*margin: 100px */
+    /*Aplicar margin no vertical e horizontal */
+    /*margin: 100px 200px*/
+     /*Aplicar margin no top, right, botton, left */
+    /*margin: 10px 20px 30px 40px */
+    /* Aplicar margin no top, horizontal e bottom */
+    /*margin: 10px 30px 40px; */
+    /*margin: 0 0 0 10px; */
+    
+}
+html {
+    font-size: 10px
+}
+
+h1 {
+    font-size: 1rem;
+}
